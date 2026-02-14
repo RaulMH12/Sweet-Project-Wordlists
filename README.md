@@ -10,7 +10,7 @@ These lists are the result of roughly **two months of continuous automated attac
 
 ## Available lists
 
-For now, I’m only publishing the **password list**, available at: `...`
+For now, I’m only publishing the **password list**, available at: [passwords.txt](../../raw/main/passwords.txt)
 
 ## Future updates
 
