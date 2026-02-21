@@ -3,14 +3,14 @@
 These wordlists were collected via the **Sweet Project Honeypot**, a lightweight WordPress plugin I created and customized to quickly turn a WordPress site into a honeypot. The plugin’s source code will be published in the coming weeks/months.
 
 From now on, I plan to publish **only two types of data**:
-- a **password wordlist** 
-- a **URL list** 
+- a **[password list](Passwords.txt)** 
+- a **[url list](Urls.txt)** 
 
 These lists are the result of roughly **two months of continuous automated attacks**. They are therefore relatively recent and may be useful for **defensive security** tasks such as auditing, threat research, blue team testing, and detection engineering.
 
 ## Available lists
 
-For now, I’m only publishing the **password list**, available at: [passwords.txt](Passwords.txt)
+For now, I’m only publishing the **password list**, available at: 
 
 ## Future updates
 
