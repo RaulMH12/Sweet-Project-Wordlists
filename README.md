@@ -8,10 +8,6 @@ From now on, I plan to publish **only two types of data**:
 
 These lists are the result of roughly **two months of continuous automated attacks**. They are therefore relatively recent and may be useful for **defensive security** tasks such as auditing, threat research, blue team testing, and detection engineering.
 
-## Available lists
-
-For now, I’m only publishing the **password list**, available at: 
-
 ## Future updates
 
 In future releases, the lists may be **split and classified** based on the technology/services they appear to target (e.g., WordPress, CMS panels, admin paths, common services).
